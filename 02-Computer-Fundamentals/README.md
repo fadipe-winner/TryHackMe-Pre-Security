@@ -66,5 +66,9 @@ Cloud computing solves a problem most of us run into without realizing it — li
 ### Basic Cloud Terminology
 - **EC2 (Elastic Compute Cloud)** — a virtual computer/server in the cloud — basically like adding a new computer to your environment, except virtual.
 - **Instance Type** — describes how powerful that virtual computer is (its specs).
+  
+ ### Conclusion
+ 
+ **I learned the basics of how clients, servers, DNS, ports, and protocols work together. I also gained a basic understanding of virtualization and cloud services such as AWS.**
 
 
